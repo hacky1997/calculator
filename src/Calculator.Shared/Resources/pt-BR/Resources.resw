@@ -1116,7 +1116,7 @@
   </data>
   <data name="CategoryName_WeightText" xml:space="preserve">
     <value>Peso e massa</value>
-    <comment>Unit conversion category name called Weight and Mass. Note that this category includes units of both mass and weight. People use the word "weight" in everyday life for measuring things such as food and people. In case a language has same word for "weight" and "mass" please use one word only.</comment>
+    <comment>Unit conversion category name called Peso and Mass. Note that this category includes units of both mass and peso. People use the word "peso" in everyday life for measuring things such as food and people. In case a language has same word for "peso" and "mass" please use one word only.</comment>
   </data>
   <data name="CategoryName_PressureText" xml:space="preserve">
     <value>Pressão</value>
@@ -1884,7 +1884,7 @@
   </data>
   <data name="UnitAbbreviation_Carat" xml:space="preserve">
     <value>CD</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Degree" xml:space="preserve">
     <value>deg</value>
@@ -1924,59 +1924,59 @@
   </data>
   <data name="UnitAbbreviation_Centigram" xml:space="preserve">
     <value>cg</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Decagram" xml:space="preserve">
     <value>dag</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Decigram" xml:space="preserve">
     <value>dg</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Gram" xml:space="preserve">
     <value>g</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Hectogram" xml:space="preserve">
     <value>hg</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Kilogram" xml:space="preserve">
     <value>kg</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_LongTon" xml:space="preserve">
     <value>ton (Reino Unido)</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Milligram" xml:space="preserve">
     <value>mg</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Ounce" xml:space="preserve">
     <value>oz</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Pound" xml:space="preserve">
     <value>lb</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_ShortTon" xml:space="preserve">
     <value>ton (EUA)</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Stone" xml:space="preserve">
     <value>st</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitAbbreviation_Tonne" xml:space="preserve">
     <value>t</value>
-    <comment>An abbreviation for a measurement unit of weight</comment>
+    <comment>An abbreviation for a measurement unit of peso</comment>
   </data>
   <data name="UnitName_Carat" xml:space="preserve">
     <value>Quilates</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Degree" xml:space="preserve">
     <value>Graus</value>
@@ -2016,55 +2016,55 @@
   </data>
   <data name="UnitName_Centigram" xml:space="preserve">
     <value>Centigramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Decagram" xml:space="preserve">
     <value>Decagramas</value>
-    <comment>A measurement unit for weight. Note: Dekagram is spelled "decagram" everywhere except where US English is used. (EN-US dekagram, elsewhere decagram). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. Note: Dekagram is spelled "decagram" everywhere except where US English is used. (EN-US dekagram, elsewhere decagram). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Decigram" xml:space="preserve">
     <value>Decigramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Gram" xml:space="preserve">
     <value>Gramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Hectogram" xml:space="preserve">
     <value>Hectogramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilogram" xml:space="preserve">
     <value>Quilogramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_LongTon" xml:space="preserve">
     <value>Toneladas longas (Reino Unido)</value>
-    <comment>A measurement unit for weight. This is the UK version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. This is the UK version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Milligram" xml:space="preserve">
     <value>Miligramas</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Ounce" xml:space="preserve">
     <value>Onças</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Pound" xml:space="preserve">
     <value>Libras</value>
-    <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_ShortTon" xml:space="preserve">
     <value>Toneladas curtas (EUA)</value>
-    <comment>A measurement unit for weight. This is the US version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. This is the US version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Stone" xml:space="preserve">
     <value>Pedra</value>
-    <comment>A measurement unit for weight. Equal to 14 pounds. Note that this is the plural form of the word in English (eg. "This man weighs 11 stone."). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. Equal to 14 pounds. Note that this is the plural form of the word in English (eg. "This man weighs 11 stone."). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Tonne" xml:space="preserve">
     <value>Toneladas métricas</value>
-    <comment>A measurement unit for weight. This is the metric version of tonne. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A measurement unit for peso. This is the metric version of tonne. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CD" xml:space="preserve">
     <value>CDs</value>
@@ -2148,19 +2148,19 @@
   </data>
   <data name="UnitName_Snowflake" xml:space="preserve">
     <value>flocos de neve</value>
-    <comment>A snowflake, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A snowflake, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Snowflake" xml:space="preserve">
     <value>flocos de neve</value>
-    <comment>A snowflake, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A snowflake, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Elephant" xml:space="preserve">
     <value>elefantes</value>
-    <comment>An elephant, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>An elephant, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Elephant" xml:space="preserve">
     <value>elefantes</value>
-    <comment>An elephant, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>An elephant, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Turtle" xml:space="preserve">
     <value>tartarugas</value>
@@ -2180,11 +2180,11 @@
   </data>
   <data name="UnitName_Whale" xml:space="preserve">
     <value>baleias</value>
-    <comment>A blue whale, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A blue whale, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Whale" xml:space="preserve">
     <value>baleias</value>
-    <comment>A blue whale, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A blue whale, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CoffeeCup" xml:space="preserve">
     <value>xícaras de café</value>
@@ -2252,11 +2252,11 @@
   </data>
   <data name="UnitName_SoccerBall" xml:space="preserve">
     <value>bolas de futebol</value>
-    <comment>A soccer ball, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A soccer ball, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_SoccerBall" xml:space="preserve">
     <value>bolas de futebol</value>
-    <comment>A soccer ball, used as a comparison measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
+    <comment>A soccer ball, used as a comparison measurement unit for peso. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="MemoryItemHelpText" xml:space="preserve">
     <value>Item de Memória</value>
@@ -2494,7 +2494,7 @@
   </data>
   <data name="HeaderAutomationName_Converter" xml:space="preserve">
     <value>Modo Conversor de %1</value>
-    <comment>{Locked='%1'} Automation name for when the mode header is focused. %1 = the current converter mode: "Weight and Mass", "Energy", "Volume", etc.</comment>
+    <comment>{Locked='%1'} Automation name for when the mode header is focused. %1 = the current converter mode: "peso and Mass", "Energy", "Volume", etc.</comment>
   </data>
   <data name="HeaderAutomationName_Date" xml:space="preserve">
     <value>Modo Cálculo de Data</value>
@@ -2738,7 +2738,7 @@
   </data>
   <data name="CategoryName_WeightAccessKey" xml:space="preserve">
     <value>W</value>
-    <comment>AccessKey for the weight converter navbar item. {StringCategory="Accelerator"}</comment>
+    <comment>AccessKey for the peso converter navbar item. {StringCategory="Accelerator"}</comment>
   </data>
   <data name="CategoryName_TemperatureAccessKey" xml:space="preserve">
     <value>TE</value>
